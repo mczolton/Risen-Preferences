@@ -1,0 +1,8 @@
+<options>
+	<Engine>
+		<Cache
+			Preset="Medium"
+		>
+		</Cache>
+	</Engine>
+</options>

@@ -1,0 +1,8 @@
+<options>
+	<Engine>
+		<Cache
+			Preset="Low"
+		>
+		</Cache>
+	</Engine>
+</options>

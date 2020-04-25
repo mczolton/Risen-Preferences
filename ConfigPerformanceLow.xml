@@ -1,0 +1,32 @@
+<options>
+	<Engine>
+		<Render
+			ViewDistance="1"
+			>
+			<Shadows
+				Quality="Low"
+			>
+			</Shadows>
+			<PostProcessing
+				DefaultEffect="HDRI"
+			>
+			</PostProcessing>
+		</Render>
+		<Graphics
+			TextureFilterMode="0"
+		>
+		</Graphics>
+		<Vegetation
+			Quality="Low"
+		>
+		</Vegetation>
+		<Effect
+			Quality="Low"
+		>
+		</Effect>
+		<Cache
+			Preset="Low"
+		>
+		</Cache>
+	</Engine>
+</options>

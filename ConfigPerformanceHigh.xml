@@ -1,0 +1,32 @@
+<options>
+	<Engine>
+		<Render
+			ViewDistance="3"
+			>
+			<Shadows
+				Quality="High"
+			>
+			</Shadows>
+			<PostProcessing
+				DefaultEffect="DoF"
+			>
+			</PostProcessing>
+		</Render>
+		<Graphics
+			TextureFilterMode="4"
+		>
+		</Graphics>
+		<Vegetation
+			Quality="High"
+		>
+		</Vegetation>
+		<Effect
+			Quality="High"
+		>
+		</Effect>
+		<Cache
+			Preset="High"
+		>
+		</Cache>
+	</Engine>
+</options>

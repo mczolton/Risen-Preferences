@@ -1,0 +1,32 @@
+<options>
+	<Engine>
+		<Render
+			ViewDistance="2"
+			>
+			<Shadows
+				Quality="Medium"
+			>
+			</Shadows>
+			<PostProcessing
+				DefaultEffect="DoF"
+			>
+			</PostProcessing>
+		</Render>
+		<Graphics
+			TextureFilterMode="3"
+		>
+		</Graphics>
+		<Vegetation
+			Quality="Medium"
+		>
+		</Vegetation>
+		<Effect
+			Quality="Medium"
+		>
+		</Effect>
+		<Cache
+			Preset="Medium"
+		>
+		</Cache>
+	</Engine>
+</options>
